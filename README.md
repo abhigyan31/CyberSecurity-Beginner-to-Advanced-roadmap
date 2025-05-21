@@ -1,1 +1,1 @@
-# Cybersecurity Roadmap with Certifications (Beginner to Advanced)
+# Cybersecurity Roadmap with Certifications Beginner to Advanced
