@@ -11,7 +11,7 @@
 
 | Platform/Cert                              | Description                           | Link                                                                                   | Outcome                    |
 |-------------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------|----------------------------|
-| TryHackMe – Pre Security Path              | Intro to cybersecurity basics       | [tryhackme.com/path/01-pre-security](https://tryhackme.com/path/01-pre-security)       | Certificate + Profile Badge |
+| TryHackMe – Pre Security Path              | Intro to cybersecurity basics       | [tryhackme.com/path/01-pre-security](https://tryhackme.com/path/outline/presecurity)       | Certificate + Profile Badge |
 | Cisco – Introduction to Cybersecurity      | Free Cisco Networking Academy course | [netacad.com](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Free certificate            |
 | IBM Cybersecurity Fundamentals (Coursera) | Fundamentals of cybersecurity        | [coursera.org](https://www.coursera.org/learn/ibm-cybersecurity-fundamentals)           | Certificate (audit free + paid cert) |
 
@@ -22,7 +22,6 @@
 
 | Platform/Cert                              | Description                    | Link                                                                             | Outcome                      |
 |-------------------------------------------|--------------------------------|----------------------------------------------------------------------------------|------------------------------|
-| TryHackMe – Complete Beginner Path        | Hands-on beginner hacking labs | [tryhackme.com/path/01-complete-beginner](https://tryhackme.com/path/01-complete-beginner) | Certificate + XP + Profile Rank |
 | PortSwigger Web Security Academy           | Learn web security fundamentals | [portswigger.net/web-security](https://portswigger.net/web-security)             | Badges + Shareable Profile   |
 | INE Intro to Cybersecurity (Free Starter Pass) | Intro courses + badges         | [ine.com](https://ine.com)                                                       | Free courses + badges        |
 
@@ -35,7 +34,7 @@
 
 | Platform/Cert                              | Description               | Link                                                         | Outcome                 |
 |-------------------------------------------|---------------------------|--------------------------------------------------------------|-------------------------|
-| TryHackMe – Web Fundamentals Path         | Web hacking essentials     | [tryhackme.com/path/web-fundamentals](https://tryhackme.com/path/web-fundamentals) | Certificate + Badge     |
+| TryHackMe – Web Fundamentals Path         | Web hacking essentials     | [tryhackme.com/path/web-fundamentals](https://tryhackme.com/path/outline/web) | Certificate + Badge     |
 | Burp Suite Certified Practitioner (BSCP) (Optional Paid) | Professional Burp Suite cert | [portswigger.net](https://portswigger.net/bscp)              | Professional exam       |
 
 ### 🧩 Privilege Escalation & Tools  
