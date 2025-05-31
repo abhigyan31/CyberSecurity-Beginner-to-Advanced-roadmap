@@ -1,10 +1,10 @@
-# 🛡️ Cybersecurity Roadmap with Certifications
+# 🛡️ Cybersecurity Roadmap with Certificationsss
 *From Beginner to Advanced*
----
+-------
 
 ![logo](https://raw.githubusercontent.com/abhigyan31/Cybersecurity-Roadmap-with-Certifications-Beginner-to-Advanced/main/course.png)
 
----
+-------
 
 ## ✅ Phase 1: Foundation (Beginner)  
 **Goal:** Learn the basics of networking, Linux, and internet fundamentals.
