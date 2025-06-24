@@ -36,7 +36,7 @@
 | TryHackMe – Web Fundamentals Path         | Web hacking essentials     | [tryhackme.com/path/web-fundamentals](https://tryhackme.com/path/outline/web) | Certificate + Badge     |
 | Burp Suite Certified Practitioner (BSCP) (Optional Paid) | Professional Burp Suite cert | [portswigger.net](https://portswigger.net/bscp)              | Professional exam       |
 
-### 🧩 Privilege Escalation & Tools  ...
+### 🧩 Privilege Escalation & Tools  .....
 
 | Platform/Cert                              | Description                 | Link                                                                 | Outcome                      |
 |-------------------------------------------|-----------------------------|----------------------------------------------------------------------|------------------------------|
