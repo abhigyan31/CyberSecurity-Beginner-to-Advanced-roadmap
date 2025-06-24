@@ -1,6 +1,5 @@
 # 🛡️ Cybersecurity Roadmap with Certificationsss
 *From Beginner to Advanced*
----------------------
 
 ![logo](https://raw.githubusercontent.com/abhigyan31/Cybersecurity-Roadmap-with-Certifications-Beginner-to-Advanced/main/course.png)
 
